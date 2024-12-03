@@ -1,0 +1,17 @@
+.custom-post-list {
+    list-style: none;
+    padding: 0;
+}
+.custom-post-list li {
+    margin-bottom: 20px;
+}
+.custom-post-list h3 {
+    margin: 0;
+}
+.custom-post-list a {
+    color: #0073aa;
+    text-decoration: none;
+}
+.custom-post-list a:hover {
+    text-decoration: underline;
+}

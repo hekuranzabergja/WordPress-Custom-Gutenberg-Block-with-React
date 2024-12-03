@@ -1,0 +1,8 @@
+.custom-post-list-block {
+    padding: 10px;
+    border: 1px dashed #ccc;
+}
+.custom-post-list-block p {
+    margin: 0;
+    color: #666;
+}
